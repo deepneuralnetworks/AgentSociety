@@ -1,4 +1,4 @@
-# AgentSociety
+# LLM Agent Society
 
 ## DMQA Lab. - Google Agent White Paper Study (2025)
 
