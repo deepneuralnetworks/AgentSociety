@@ -1,12 +1,12 @@
 # AgentSociety
 
-DMQA lab. - Google Agent White Paper Study (2025)
+## DMQA lab. - Google Agent White Paper Study (2025)
 
 Participants: Hyeseung Lee, Jaehoon Kim, Jihyeong Choi, Soyeon Park (alphabet order)
 
 Reviewing the contents and the referred papers
 
-List of the papers & blogs
+### List of the papers & blogs
 [1] Yao, S., Zhao, J., Yu, D., Du, N., Shafran, I., Narasimhan, K., & Cao, Y. (2023, January). ReAct: Synergizing Reasoning and Acting in Language Models. In International Conference on Learning Representations (ICLR).
 [2] Wei, J., Wang, X., Schuurmans, D., Bosma, M., Xia, F., Chi, E., ... & Zhou, D. (2022). Chain-of-thought prompting elicits reasoning in large language models. Advances in neural information processing systems, 35, 24824-24837.
 [3] Wang, X., Wei, J., Schuurmans, D., Le, Q. V., Chi, E. H., Narang, S., ... & Zhou, D. Self-Consistency Improves Chain of Thought Reasoning in Language Models. In The Eleventh International Conference on Learning Representations.
